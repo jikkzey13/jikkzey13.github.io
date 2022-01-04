@@ -1,0 +1,45 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recycle Camera - 柴柴3C收購</title>
+    <link>https://jikkzey13.github.io/categories/recycle-camera/</link>
+    <description>Recent content in Recycle Camera on 柴柴3C收購</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://jikkzey13.github.io/categories/recycle-camera/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>相機買賣推薦-優酷3C</title>
+      <link>https://jikkzey13.github.io/posts/camera211114/camera211114/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jikkzey13.github.io/posts/camera211114/camera211114/</guid>
+      <description>相機買賣推薦-優酷3C 您有汰換下來的手機,電腦,筆電嗎?找優酷3C，我們將為您服務 連結網址：
+https://sites.google.com/view/ucool3c21-1114/
+#相機買賣
+#買賣相機
+#相機收購
+#相機買賣 #買賣相機 #相機收購 #收購相機 #收購單眼相機</description>
+    </item><item>
+      <title>相機估價推薦-優酷3C</title>
+      <link>https://jikkzey13.github.io/posts/camera211105/camera211105/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jikkzey13.github.io/posts/camera211105/camera211105/</guid>
+      <description>相機估價推薦-優酷3C 您有汰換下來的手機,電腦,筆電嗎?找優酷3C，我們將為您服務 連結網址：
+https://sites.google.com/view/ucool3c-211105/
+#相機估價
+#相機回收
+#相機收購
+#單眼相機回收 #單眼相機收購 #回收單眼 #單眼相機估價 #收購單眼相機</description>
+    </item><item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://jikkzey13.github.io/posts/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jikkzey13.github.io/posts/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+  </channel>
+</rss>
